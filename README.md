@@ -1,1 +1,1 @@
-This is a basic calculator App
+Built With React.
