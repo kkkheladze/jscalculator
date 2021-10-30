@@ -1,1 +1,1 @@
-Built With React.
+Vanilla JS
